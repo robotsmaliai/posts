@@ -1,6 +1,28 @@
 [
-    {"title": "Project 1", "url": "https://mlstwrs.web.app"},
-    {"title": "Project 2", "url": "https://mlstwrs.web.app"},
-    {"title": "Project 3", "url": "https://mlstwrs.web.app"},
-    {"title": "Project 4", "url": "https://mlstwrs.web.app"}
+
+    {
+	"title": "IndabaX - Call for Workshops",
+	"url": "#TODO: english call for workshop",
+	"description": "Call for workshops are opened now for IndabaX Mali 2023"
+    },
+    {
+	"title": "AI at the Edge Mali Workshop 2023",
+	"url": "https://edgemali.github.io",
+	"description": "EdgeAI workshop in Mali centered around 'Cheap AI solutions'"
+    },
+    {
+	"title": "MaLM: Malian Language Model",
+	"url": "https://github.com/robotsmali-ai/malm",
+	"description": "A pretraining architecture for low-resource languages"
+    },
+    {
+	"title": "PARC 2023 - AgRobot ROS Challenge",
+	"url": "#TODO",
+	"description": "Two Internal teams competiting in the AgRobots Challenge"
+    },
+    {
+	"title": "OSV MT - MT Competition 2023",
+	"url": "#TODO: Blog post",
+	"description": "A Bambara - French Competition hosted by Orange Silicon Valley"
+    }
 ]
